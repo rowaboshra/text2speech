@@ -1,7 +1,3 @@
-Sure! Here’s a professional and polished **README.md** for your **Text-to-Speech Web App** project:  
-
----
-
 # 🗣️ **Text-to-Speech Web App**  
 
 An interactive web application that converts text into speech, with customizable voice, pitch, and rate controls. Includes additional features like text downloading, word count display, and text clearing.  
